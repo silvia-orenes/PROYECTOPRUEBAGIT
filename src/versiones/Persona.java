@@ -17,14 +17,16 @@ public class Persona {
 	}
 
 
-	public String getEdad() {
+	public int getEdad() {
 		return edad;
 	}
 
 
-	public void setEdad(String edad) {
+	public void setEdad(int edad) {
 		this.edad = edad;
 	}
+	
+	
 	public String getNombre() {
 		return nombre;
 	}
